@@ -1,2 +1,4 @@
 hii i am aiman
 installing a new vs code cuz his terminal was not working
+had weird extensions installed
+terminal kept bugging out
